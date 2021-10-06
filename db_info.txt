@@ -1,22 +1,15 @@
 SYSTEM:
 
 -faq -  Текст FAQ
-
 -contacts - Текс Контактов
-
 -buyout_status - ВКЛЮЧИТЬ/ВЫКЛЮЧИТЬ ВЫКУПЫ
-
 -count_all_buyouts - Всего выкупов в системе
-
 -balance_system - Баланс в системе
-
 -name - Создал,чтобы изменять эту строку
 
 
 USERS:
-
 -buyouts - выкупы
-
 -TA_buyouts - общая сумма выкупов
 
 
